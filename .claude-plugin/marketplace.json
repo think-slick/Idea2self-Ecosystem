@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "idea2self-ecosystem",
+  "description": "Idea2Self — Von vager Idee zu messbarem nächsten Schritt. Sammlung von Claude-Code-Plugins rund um Ideenentwicklung, Validierung und Umsetzung.",
+  "owner": {
+    "name": "Philipp Sieder",
+    "email": "kontakt@think-slick.de"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "idea2self",
+      "description": "Idea2Self — Vom Impuls zum Action-Plan in 12 Stunden. Workshop-Skills fuer Founder und Side-Project-Macher: Idee schaerfen, Problem formulieren, Zielgruppe verstehen, Markt scannen, Interviews vorbereiten, Experiment designen, Loesungen erfinden, Loesung skizzieren, naechste Schritte planen, Erkenntnisse einarbeiten.",
+      "version": "2.0.1",
+      "source": {
+        "source": "url",
+        "url": "https://gitlab.com/idea2self/workshop-skills.git",
+        "ref": "main"
+      },
+      "author": {
+        "name": "Philipp Sieder",
+        "email": "kontakt@think-slick.de"
+      },
+      "homepage": "https://gitlab.com/idea2self/workshop-skills",
+      "repository": "https://gitlab.com/idea2self/workshop-skills.git",
+      "license": "MIT",
+      "keywords": [
+        "idea2self",
+        "workshop",
+        "founder",
+        "side-project",
+        "idee-schaerfen",
+        "problem-formulieren",
+        "zielgruppe",
+        "markt-scannen",
+        "interviews",
+        "experiment",
+        "loesungen",
+        "naechste-schritte",
+        "erkenntnis-einarbeiten",
+        "iteration",
+        "deutsch"
+      ]
+    },
+    {
+      "name": "startup-business-analyst",
+      "description": "Comprehensive startup business analysis with market sizing (TAM/SAM/SOM), financial modeling, team planning, and strategic research for early-stage companies",
+      "version": "1.0.6",
+      "author": {
+        "name": "Seth Hobson",
+        "email": "seth@major7apps.com"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/wshobson/agents",
+        "path": "plugins/startup-business-analyst",
+        "ref": "main"
+      },
+      "category": "business",
+      "homepage": "https://github.com/wshobson/agents",
+      "license": "MIT"
+    },
+    {
+      "name": "content-marketing",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/wshobson/agents",
+        "path": "plugins/content-marketing",
+        "ref": "main"
+      },
+      "description": "Content marketing strategy, web research, and information synthesis for marketing operations",
+      "version": "1.2.1",
+      "author": {
+        "name": "Seth Hobson",
+        "email": "seth@major7apps.com"
+      },
+      "homepage": "https://github.com/wshobson/agents",
+      "license": "MIT",
+      "category": "marketing"
+    },
+    {
+      "name": "social-publishing",
+      "source": {
+        "source": "github",
+        "repo": "ndesv21/socialclaw",
+        "ref": "main"
+      },
+      "description": "Schedule and publish social media posts across 13 platforms (X, LinkedIn Profile + Page, Instagram Business + Standalone, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via SocialClaw — one workspace API key covers everything",
+      "version": "1.0.0",
+      "author": {
+        "name": "ndesv21",
+        "url": "https://github.com/ndesv21"
+      },
+      "homepage": "https://getsocialclaw.com",
+      "license": "MIT",
+      "category": "marketing"
+    },
+    {
+      "name": "product-innovation",
+      "description": "Product innovation and validation frameworks including Lean Startup methodology, Google Ventures Design Sprint, and Don Norman's design principles",
+      "version": "1.0.0",
+      "author": {
+        "name": "Wondel.ai",
+        "url": "https://wondel.ai"
+      },
+      "homepage": "https://github.com/wondelai/skills",
+      "repository": "https://github.com/wondelai/skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "lean-startup",
+        "mvp",
+        "design-sprint",
+        "validation",
+        "innovation",
+        "prototyping"
+      ],
+      "source": {
+        "source": "github",
+        "repo": "wondelai/skills",
+        "ref": "main"
+      },
+      "strict": false,
+      "skills": [
+        "./lean-startup",
+        "./design-sprint",
+        "./design-everyday-things",
+        "./inspired-product",
+        "./continuous-discovery",
+        "./37signals-way"
+      ]
+    }
+  ]
+}
