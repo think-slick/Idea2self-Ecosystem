@@ -11,9 +11,9 @@
   },
   "plugins": [
     {
-      "name": "idea2self",
-      "description": "Idea2Self — Vom Impuls zum Action-Plan in 12 Stunden. Workshop-Skills fuer Founder und Side-Project-Macher: Idee schaerfen, Problem formulieren, Zielgruppe verstehen, Markt scannen, Interviews vorbereiten, Experiment designen, Loesungen erfinden, Loesung skizzieren, naechste Schritte planen, Erkenntnisse einarbeiten.",
-      "version": "2.0.1",
+      "name": "ki-atelier",
+      "description": "Komm mit deinem Impuls. Geh mit einem Ergebnis - mit KI und Gleichgesinnten an deiner Seite: Idee schaerfen, Problem formulieren, Zielgruppe verstehen, Markt scannen, Interviews vorbereiten, Experiment designen, Loesungen erfinden, Loesung skizzieren, naechste Schritte planen, Erkenntnisse einarbeiten.",
+      "version": "2.0.2",
       "source": {
         "source": "url",
         "url": "https://gitlab.com/idea2self/workshop-skills.git",
