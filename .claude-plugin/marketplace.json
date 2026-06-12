@@ -131,6 +131,37 @@
         "./continuous-discovery",
         "./37signals-way"
       ]
+    },
+    {
+      "name": "ki-atelier",
+      "description": "KI-Atelier Workshop-Skills — Idea2Self Loop in drei moderierten Sessions (3 x 25 Minuten: Klaeren, Entscheiden, Ausfuehren). Buddy-Persona als persistenter Workshop-Begleiter und Ansprechpartner, Outcome-Pilot fuer strukturierte Ergebnis-Navigation. Fuer Founder, Side-Project-Macher und Wissensarbeiter die KI-Co-Creation methodisch einsetzen wollen.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://gitlab.com/idea2self/workshop-skills.git",
+        "ref": "main"
+      },
+      "author": {
+        "name": "Philipp Sieder",
+        "email": "kontakt@think-slick.de"
+      },
+      "homepage": "https://gitlab.com/idea2self/workshop-skills",
+      "repository": "https://gitlab.com/idea2self/workshop-skills.git",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "ki-atelier",
+        "workshop",
+        "idea2self",
+        "outcome-pilot",
+        "facilitator",
+        "produktivitaet",
+        "deutsch"
+      ],
+      "skills": [
+        "./agents/personas/ki-atelier-buddy",
+        "./skills/outcome-pilot"
+      ]
     }
   ]
 }
