@@ -159,6 +159,7 @@
         "deutsch"
       ],
       "skills": [
+        "./skills/ki-atelier",
         "./agents/personas/ki-atelier-buddy",
         "./skills/outcome-pilot"
       ]
