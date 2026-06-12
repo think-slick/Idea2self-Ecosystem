@@ -48,7 +48,7 @@
     {
       "name": "ki-atelier-facilitator",
       "description": "KI-Atelier Facilitator-Pack — persistenter Workshop-Begleiter fuer den Idea2Self Loop (3 Slots x 25 Minuten: Klaeren, Entscheiden, Ausfuehren). Buddy-Persona als Ansprechpartner, /ki-atelier Launcher-Skill, outcome-pilot fuer strukturierte Ergebnis-Navigation. Nur die drei Facilitator-Skills, nicht der volle Workshop-Toolkit.",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "source": {
         "source": "git-subdir",
         "url": "https://gitlab.com/idea2self/workshop-skills.git",
