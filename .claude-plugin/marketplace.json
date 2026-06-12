@@ -15,9 +15,8 @@
       "description": "Komm mit deinem Impuls. Geh mit einem Ergebnis - mit KI und Gleichgesinnten an deiner Seite: Idee schaerfen, Problem formulieren, Zielgruppe verstehen, Markt scannen, Interviews vorbereiten, Experiment designen, Loesungen erfinden, Loesung skizzieren, naechste Schritte planen, Erkenntnisse einarbeiten.",
       "version": "2.0.2",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://gitlab.com/idea2self/workshop-skills.git",
-        "path": "ki-atelier",
         "ref": "main"
       },
       "author": {
@@ -31,9 +30,46 @@
         "idea2self",
         "ki-atelier",
         "workshop",
-        "ki-atelier-buddy",
-        "outcome-pilot",
+        "founder",
+        "side-project",
+        "idee-schaerfen",
+        "problem-formulieren",
+        "zielgruppe",
+        "markt-scannen",
+        "interviews",
+        "experiment",
+        "loesungen",
+        "naechste-schritte",
+        "erkenntnis-einarbeiten",
+        "iteration",
+        "deutsch"
+      ]
+    },
+    {
+      "name": "ki-atelier-facilitator",
+      "description": "KI-Atelier Facilitator-Pack — persistenter Workshop-Begleiter fuer den Idea2Self Loop (3 Slots x 25 Minuten: Klaeren, Entscheiden, Ausfuehren). Buddy-Persona als Ansprechpartner, /ki-atelier Launcher-Skill, outcome-pilot fuer strukturierte Ergebnis-Navigation. Nur die drei Facilitator-Skills, nicht der volle Workshop-Toolkit.",
+      "version": "0.1.0",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://gitlab.com/idea2self/workshop-skills.git",
+        "path": "ki-atelier-facilitator",
+        "ref": "main"
+      },
+      "author": {
+        "name": "Philipp Sieder",
+        "email": "kontakt@think-slick.de"
+      },
+      "homepage": "https://gitlab.com/idea2self/workshop-skills",
+      "repository": "https://gitlab.com/idea2self/workshop-skills.git",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "ki-atelier",
         "facilitator",
+        "workshop",
+        "idea2self",
+        "buddy",
+        "outcome-pilot",
         "produktivitaet",
         "deutsch"
       ]
