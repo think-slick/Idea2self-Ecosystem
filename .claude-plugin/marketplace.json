@@ -15,8 +15,9 @@
       "description": "Komm mit deinem Impuls. Geh mit einem Ergebnis - mit KI und Gleichgesinnten an deiner Seite: Idee schaerfen, Problem formulieren, Zielgruppe verstehen, Markt scannen, Interviews vorbereiten, Experiment designen, Loesungen erfinden, Loesung skizzieren, naechste Schritte planen, Erkenntnisse einarbeiten.",
       "version": "2.0.2",
       "source": {
-        "source": "url",
+        "source": "git-subdir",
         "url": "https://gitlab.com/idea2self/workshop-skills.git",
+        "path": "ki-atelier",
         "ref": "main"
       },
       "author": {
@@ -28,29 +29,13 @@
       "license": "MIT",
       "keywords": [
         "idea2self",
+        "ki-atelier",
         "workshop",
-        "founder",
-        "side-project",
-        "idee-schaerfen",
-        "problem-formulieren",
-        "zielgruppe",
-        "markt-scannen",
-        "interviews",
-        "experiment",
-        "loesungen",
-        "naechste-schritte",
-        "erkenntnis-einarbeiten",
-        "iteration",
-        "deutsch",
         "ki-atelier-buddy",
         "outcome-pilot",
         "facilitator",
-        "produktivitaet"
-      ],
-      "skills": [
-        "./skills/ki-atelier",
-        "./agents/personas/ki-atelier-buddy",
-        "./skills/outcome-pilot"
+        "produktivitaet",
+        "deutsch"
       ]
     },
     {
